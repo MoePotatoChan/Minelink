@@ -1,5 +1,0 @@
-name: Minelink
-version: 1.0
-main: com.example.Minelink.Minelink
-api-version: 1.13
-description: A WebSocket server plugin for Minecraft that allows remote command execution
